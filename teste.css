@@ -1,3 +1,7 @@
 h1{
   border 1px solid red;
 background white;}
+
+p {
+  height: 20px;
+}
